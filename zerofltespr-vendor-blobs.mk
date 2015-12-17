@@ -208,16 +208,27 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltespr/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/zerofltespr/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libsecnativefeature.so:system/lib64/libsecnativefeature.so \
+    vendor/samsung/zerofltespr/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/zerofltespr/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/zerofltespr/proprietary/lib64/libcfiril.so:system/lib64/libcfiril.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
     vendor/samsung/zerofltespr/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libsecril-client.so:system/lib64/libsecril-client.so \
+    vendor/samsung/zerofltespr/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/samsung/zerofltespr/proprietary/lib64/libreference-ril.so:system/lib64/libreference-ril.so \
+    vendor/samsung/zerofltespr/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/zerofltespr/proprietary/lib64/libril.so:system/lib64/libril.so \
+    vendor/samsung/zerofltespr/proprietary/lib64/librilswitch.so:system/lib64/librilswitch.so \
+    vendor/samsung/zerofltespr/proprietary/lib/librilutils.so:system/lib/librilutils.so \
+    vendor/samsung/zerofltespr/proprietary/lib64/librilutils.so:system/lib64/librilutils.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/samsung/zerofltespr/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/samsung/zerofltespr/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
     vendor/samsung/zerofltespr/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/zerofltespr/proprietary/etc/wifi/bcmdhd_apsta.bin_a1:system/etc/wifi/bcmdhd_apsta.bin_a1 \
     vendor/samsung/zerofltespr/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \

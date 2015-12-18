@@ -160,6 +160,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltespr/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/zerofltespr/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/zerofltespr/proprietary/bin/lhd:system/bin/lhd \
+    vendor/samsung/zerofltespr/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/samsung/zerofltespr/proprietary/lib64/hw/gps.universal7420.so:system/lib64/hw/gps.universal7420.so \
     vendor/samsung/zerofltespr/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libwrappergps.so:system/lib64/libwrappergps.so \

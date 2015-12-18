@@ -217,6 +217,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltespr/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
     vendor/samsung/zerofltespr/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libsecril-client.so:system/lib64/libsecril-client.so \
+    vendor/samsung/zerofltespr/proprietary/lib/hw/sensors.universal7420.so:system/lib/hw/sensors.universal7420.so \
+    vendor/samsung/zerofltespr/proprietary/lib64/hw/sensors.universal7420.so:system/lib64/hw/sensors.universal7420.so \
     vendor/samsung/zerofltespr/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libreference-ril.so:system/lib64/libreference-ril.so \
     vendor/samsung/zerofltespr/proprietary/lib/libril.so:system/lib/libril.so \

@@ -157,6 +157,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltespr/proprietary/lib64/libexynosutils.so:system/lib64/libexynosutils.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/zerofltespr/proprietary/vendor/lib64/egl/libGLES_mali.so:system/vendor/lib64/egl/libGLES_mali.so \
+    vendor/samsung/zerofltespr/proprietary/bin/argosd:system/bin/argosd \
+    vendor/samsung/zerofltespr/proprietary/bin/qemud:system/bin/qemud \
+    vendor/samsung/zerofltespr/proprietary/bin/qemu-props:system/bin/qemu-props \
+    vendor/samsung/zerofltespr/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/zerofltespr/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/zerofltespr/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/zerofltespr/proprietary/bin/lhd:system/bin/lhd \

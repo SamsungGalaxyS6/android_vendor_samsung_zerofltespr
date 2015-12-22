@@ -165,6 +165,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltespr/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/zerofltespr/proprietary/bin/lhd:system/bin/lhd \
     vendor/samsung/zerofltespr/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/samsung/zerofltespr/proprietary/bin/mdm_helper:system/bin/mdm_helper \
+    vendor/samsung/zerofltespr/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/samsung/zerofltespr/proprietary/lib64/hw/gps.universal7420.so:system/lib64/hw/gps.universal7420.so \
     vendor/samsung/zerofltespr/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libwrappergps.so:system/lib64/libwrappergps.so \
@@ -209,6 +211,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltespr/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/samsung/zerofltespr/proprietary/lib64/libMcClient.so:system/lib64/libMcClient.so \
     vendor/samsung/zerofltespr/proprietary/etc/sec_s3fwrn5p_rfreg.bin:system/etc/sec_s3fwrn5p_rfreg.bin \
+    vendor/samsung/zerofltespr/proprietary/etc/sec_config:system/etc/sec_config \
     vendor/samsung/zerofltespr/proprietary/lib/hw/nfc_nci.universal7420.so:system/lib/hw/nfc_nci.universal7420.so \
     vendor/samsung/zerofltespr/proprietary/lib64/hw/nfc_nci.universal7420.so:system/lib64/hw/nfc_nci.universal7420.so \
     vendor/samsung/zerofltespr/proprietary/vendor/firmware/sec_s3fwrn5p_firmware.bin:system/vendor/firmware/sec_s3fwrn5p_firmware.bin \
